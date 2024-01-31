@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonja</h1>
 <h3 align="center">Backend web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smujacic" alt="smujacic" /></a> </p>
 
 - 🌱 I’m currently learning **AWS services and Unit testing**
 
